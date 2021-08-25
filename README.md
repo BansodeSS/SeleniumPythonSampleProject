@@ -2,6 +2,7 @@
 Step by Step
 
 We will do this hands-on:
+
     1.   Create a simple login test
     
     2.   Implement unit testing
